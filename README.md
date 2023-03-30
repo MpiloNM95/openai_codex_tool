@@ -13,3 +13,5 @@
 ## Licensing
 
 ## Deployment Tools
+* Render - for the server
+* Vercel - for the client
