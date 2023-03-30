@@ -1,13 +1,13 @@
 # Openai Codex Tool
 
-# Introduction
+## Introduction
 
-# Installation
+## Installation
 
-# Usage
+## Usage
 
-# Contributing
+## Contributing
 
-# Related Projects
+## Related Projects
 
-# Licensing
+## Licensing
