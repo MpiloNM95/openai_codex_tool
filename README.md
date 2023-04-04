@@ -76,6 +76,6 @@ npm run server
 
 ## Deployment Tools
 #### Server Deployment
-* (Render)[https://render.com/]
+* [Render](https://render.com/)
 #### Client Deployment
-* (Vercel)[https://vercel.com/]
+* [Vercel](https://vercel.com/)
