@@ -7,10 +7,10 @@ raw="true"
 ## Introduction
 You can ask codex anything you desire whether its coding related or something you want to figure or build just ask ... codex. The solution you always wanted as a developer right at your fingertips its free anyone can use it. Just ask codex. 
 These are the folwing links related to the project:
-* (Deplyed site)[https://openai-codex-tool.vercel.app/]
-* (Blog Post)[https://medium.com/@mpilonmafu95/portfolio-project-blog-post-2ddfaae77844]
-* (My Linkedin)[https://www.linkedin.com/in/mpilo-mafu-aaa7b6185/]
-* (Codex landing Page)[https://codex-your-ai.mailchimpsites.com/]
+* [Deplyed site](https://openai-codex-tool.vercel.app/)
+* [Blog Post](https://medium.com/@mpilonmafu95/portfolio-project-blog-post-2ddfaae77844)
+* [My Linkedin](https://www.linkedin.com/in/mpilo-mafu-aaa7b6185/)
+* [Codex landing Page](https://codex-your-ai.mailchimpsites.com/)
 
 ## Installation
 The folowing applies for the client only:
@@ -30,7 +30,13 @@ npm install cors dotenv express nodemon openai
 ## Usage
 #### Client
 
+
 #### Server
+Make sure you change directory to server:
+With the following command in your terminal
+```
+cd server
+```
 Before running your server, go to the package.json file which has been created following the usage above and remove the line under "scripts" and instead copy and past this line there ```"server": "nodemon server"```
 Before running your server, got to the package.json file which has been created during the installation phase above add the following just above "scripts" add ```"type": "module",```.
 Your package.json file should look like this:
@@ -62,7 +68,7 @@ npm run server
 
 
 ## Contributing
-(Openai)[https://platform.openai.com/overview]
+[Openai](https://platform.openai.com/overview)
 
 ## Related Projects
 
