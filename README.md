@@ -75,5 +75,7 @@ npm run server
 ## Licensing
 
 ## Deployment Tools
-* (Render)[https://render.com/] - for the server
-* (Vercel)[https://vercel.com/] - for the client
+#### Server Deployment
+* (Render)[https://render.com/]
+#### Client Deployment
+* (Vercel)[https://vercel.com/]
