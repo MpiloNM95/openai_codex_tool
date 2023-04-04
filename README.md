@@ -1,4 +1,8 @@
 # Openai Codex Tool
+<img
+src="./img/Desktop.png"
+raw="true" 
+/>
 
 ## Introduction
 You can ask codex anything you desire whether its coding related or something you want to figure or build just ask ... codex. The solution you always wanted as a developer right at your fingertips its free anyone can use it. Just ask codex.
@@ -18,9 +22,8 @@ The command used to add cors, dotenv, express js, nodemon and openai to your pac
 ```
 npm install cors dotenv express nodemon openai
 ```
-
-
 ## Usage
+
 
 ## Contributing
 
