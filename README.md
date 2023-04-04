@@ -9,7 +9,7 @@ You can ask codex anything you desire whether its coding related or something yo
 These are the folwing links related to the project:
 * [Deplyed site](https://openai-codex-tool.vercel.app/)
 * [Blog Post](https://medium.com/@mpilonmafu95/portfolio-project-blog-post-2ddfaae77844)
-* [My Linkedin](https://www.linkedin.com/in/mpilo-mafu-aaa7b6185/)
+* [Mpilo Mafu](https://www.linkedin.com/in/mpilo-mafu-aaa7b6185/)
 * [Codex landing Page](https://codex-your-ai.mailchimpsites.com/)
 
 ## Installation
@@ -29,8 +29,14 @@ npm install cors dotenv express nodemon openai
 ```
 ## Usage
 #### Client
-
-
+Make sure you change directory to client
+```
+cd client
+```
+With the following command to run the client
+```
+npm run dev
+```
 #### Server
 Make sure you change directory to server:
 With the following command in your terminal
@@ -65,8 +71,6 @@ To check the server is fully functional use the following command:
 ```
 npm run server
 ```
-
-
 ## Contributing
 [Openai](https://platform.openai.com/overview)
 
